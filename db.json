@@ -1,14 +1,28 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "meta":{},
+    "status": "success",
+    "data": {
+        "items": [
+            {
+                "id": 1,
+                "title": "an.nn"
+            },
+            {
+                "id": 2,
+                "title": "trung.dv"
+            },
+            {
+                "id": 3,
+                "title": "sang.dm"
+            },
+            {
+                "id": 4,
+                "title": "dat.tp"
+            },
+            {
+                "id": 5,
+                "title": "thao.lk"
+            }
+        ]
+    }
 }
